@@ -6,7 +6,7 @@ import androidx.datastore.preferences.core.Preferences
 import androidx.datastore.preferences.core.edit
 import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
-import com.arash.altafi.preferencesdatastoresample.Phonebook
+import com.arash.altafi.preferencesdatastoresample.model.Phonebook
 import kotlinx.coroutines.flow.*
 
 class ImplRepository(private val context: Context) : Abstract {

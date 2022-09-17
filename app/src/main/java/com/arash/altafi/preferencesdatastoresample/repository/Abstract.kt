@@ -1,6 +1,6 @@
 package com.arash.altafi.preferencesdatastoresample.repository
 
-import com.arash.altafi.preferencesdatastoresample.Phonebook
+import com.arash.altafi.preferencesdatastoresample.model.Phonebook
 import kotlinx.coroutines.flow.Flow
 
 interface Abstract {

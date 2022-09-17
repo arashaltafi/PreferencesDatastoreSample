@@ -3,7 +3,7 @@ package com.arash.altafi.preferencesdatastoresample.viewmodel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.arash.altafi.preferencesdatastoresample.Phonebook
+import com.arash.altafi.preferencesdatastoresample.model.Phonebook
 import com.arash.altafi.preferencesdatastoresample.repository.ImplRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
